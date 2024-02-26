@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HowsTheWeather</string>
+    <string name="getting_weather">Getting Weather</string>
+    <string name="search_by_city">Search by City</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wait_a_moment">Wait a moment..</string>
+    <string name="next_5_days_forecast">Next 5 Days Forecast:</string>
+</resources>
