@@ -21,7 +21,7 @@ Through repository cloning:
 
 Through apk installing:
 1. Look for the releases section in the repository.
-2. Under the Final Release, find the "How's The Weather.apk" file under Assets.
+2. Under the Final Release, find the "HowsTheWeather.apk" file under Assets.
 3. Install the apk file on an android device.
 
 ## License
